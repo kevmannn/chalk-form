@@ -1,0 +1,33 @@
+{
+  "name": "chalk-form",
+  "version": "0.0.1",
+  "description": "apply an array of chalk methods to a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "apply",
+    "array",
+    "ansi",
+    "chalk",
+    "print",
+    "prettyprint"
+  ],
+  "author": "Kevin Donahue <kevindonahuedevelopment@gmail.com> (https://twitter.com/recur_excur)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevmannn/chalk-form"
+  },
+  "devDependencies": {
+    "ava": "^0.15.1"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "has-ansi": "^2.0.0"
+  }
+}
