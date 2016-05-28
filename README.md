@@ -2,7 +2,7 @@
 
 > apply an array of chalk methods to a string
 
-[![Build Status](https://travis-ci.org/Kevin Donahue/chalk-form.svg?branch=master)](https://travis-ci.org/Kevin Donahue/chalk-form)
+[![Build Status](https://travis-ci.org/kevmannn/chalk-form.svg?branch=master)](https://travis-ci.org/kevmannn/chalk-form)
 
 ## Install
 
