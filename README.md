@@ -20,5 +20,4 @@ const str = chalkForm(['bold', 'italic', 'green'])('this is bold, italic, and gr
 
 ## License
 
-MIT © [Kevin Donahue](https://twitter.com/recur_excur)
-  
+MIT © [Kevin Donahue](https://twitter.com/nonnontrivial)
