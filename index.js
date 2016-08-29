@@ -1,4 +1,4 @@
 'use strict';
-const chalk = require('chalk');
+require('babel-register')({});
 
-module.exports = methods => str => methods.reduce((p, c) => chalk[c](p), str);
+module.exports = require('./chalk-form');

@@ -9,6 +9,11 @@
   "engines": {
     "node": ">=4.0.0"
   },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
   "keywords": [
     "apply",
     "array",
@@ -28,6 +33,8 @@
   },
   "dependencies": {
     "ansi-regex": "^2.0.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-register": "^6.14.0",
     "chalk": "^1.1.3",
     "has-ansi": "^2.0.0"
   }
