@@ -1,6 +1,6 @@
 # chalk-form
 
-> apply an array of `chalk` methods to a string
+> apply an array of [`chalk`](https://github.com/chalk/chalk) methods to a string
 
 [![Build Status](https://travis-ci.org/kevmannn/chalk-form.svg?branch=master)](https://travis-ci.org/kevmannn/chalk-form)
 
