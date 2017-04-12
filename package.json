@@ -29,7 +29,7 @@
     "url": "https://github.com/kevmannn/chalk-form"
   },
   "devDependencies": {
-    "ava": "^0.15.1"
+    "ava": "^0.19.1"
   },
   "dependencies": {
     "ansi-regex": "^2.0.0",

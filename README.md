@@ -1,5 +1,7 @@
 # chalk-form
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kevmannn/chalk-form.svg)](https://greenkeeper.io/)
+
 > apply an array of [`chalk`](https://github.com/chalk/chalk) methods to a string
 
 [![Build Status](https://travis-ci.org/kevmannn/chalk-form.svg?branch=master)](https://travis-ci.org/kevmannn/chalk-form)
